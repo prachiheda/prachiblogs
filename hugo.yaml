@@ -2,3 +2,14 @@ baseURL: "http://prachiblogs.com/"
 languageCode: en-us
 title: Prachi Blogs.
 theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: "Welcome to my blog, aka my public journal. Just a bunch of thoughts floating around."
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/prachiheda"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/prachi-heda/"
