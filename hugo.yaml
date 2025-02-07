@@ -1,4 +1,4 @@
-baseURL: "https://prachiheda.github.io/prachiblogs/"
+baseURL: "http://prachiblogs.com/"
 languageCode: en-us
 title: My New Hugo Site
 theme: PaperMod
