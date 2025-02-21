@@ -4,7 +4,7 @@ title: Prachi Blogs.
 theme: PaperMod
 
 assets:
-  favicon: "https://prachiblogs.com/favicon.ico"
+  favicon: "favicon.ico"
 
 menu:
   main:
