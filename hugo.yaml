@@ -3,7 +3,25 @@ languageCode: en-us
 title: Prachi Blogs.
 theme: PaperMod
 
+assets:
+  favicon: "favicon.ico"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: "/"
+      weight: 1
+    - identifier: search
+      name: "Search"
+      url: "/search/"
+      weight: 2
+
+
 params:
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
   homeInfoParams:
     Title: "Hi there 👋"
     Content: "Welcome to my blog, aka my public journal. Just a bunch of thoughts floating around."
@@ -13,3 +31,18 @@ params:
       url: "https://github.com/prachiheda"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/prachi-heda/"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
