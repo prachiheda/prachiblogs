@@ -19,7 +19,7 @@ menu:
 
 services:
   googleAnalytics:
-    id: G-XXXXXXXXX
+    id: G-1TB41D8706
 
 params:
   ShowReadingTime: true
