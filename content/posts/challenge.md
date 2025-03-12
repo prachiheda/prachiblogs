@@ -5,7 +5,6 @@ draft: false
 title: "The five W's"
 description: "A peek into why I started this blog."
 summary: "A peek into why I started this blog."
-weight: 1
 ---
 
 ### Who, what, when, where, why?  
