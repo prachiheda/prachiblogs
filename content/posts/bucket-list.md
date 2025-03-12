@@ -1,6 +1,6 @@
 ---
 author: ["Prachi Heda"]
-date: '2025-03-12T23:37:59-08:00'
+date: 2024-03-12
 draft: false
 title: "Spring n Summer 2026"
 description: "BUCKET LISTS!!!"
