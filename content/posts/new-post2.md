@@ -1,5 +1,5 @@
 ---
-author: [“Prachi Heda”]
+author: [Prachi Heda]
 date: 2025-03-22
 draft: false
 title: App that pushes blog posts to GitHub from my phone
