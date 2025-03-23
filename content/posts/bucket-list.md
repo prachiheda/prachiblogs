@@ -13,6 +13,8 @@ I am most likely graduating a quarter early. So that means a *Solo Backpacking E
 
 Thanks dad for the vote of confidence. Just need to get my mother onboard now 🥳
 
+Edit: She said yes.
+
 With all this potential time before getting a job, I wanted to curate a list of the places I’d like to visit, and some crazy bucket list items I could try. 
 
 I will continue to edit this post. Adding and checking off items, and hopefully making separate posts for some of them. 
