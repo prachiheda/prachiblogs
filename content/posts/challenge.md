@@ -1,6 +1,6 @@
 ---
 author: ["Prachi Heda"]
-date: '2025-02-06T23:37:59-08:00'
+date: 2025-02-06
 draft: false
 title: "The five W's"
 description: "A peek into why I started this blog."
