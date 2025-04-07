@@ -37,7 +37,7 @@ An interesting point Paul claimed is that ambitions are incompatible—and there
 
 ## How its changed
 
-Funny enough, Graham said that San Francisco’s message “seems to be the same as Berkeley’s: you should live better. But this will change if enough startups choose SF over the Valley.” He is basically saying that SF was a crunchy alternative to the Valley. And, apparently, creating a startup in SF was considered a “self-indulgent choice,” which is still true—SF is darn expensive. But I think that the shift already happened in the past 5 years—even YC, his own startup incubator, quietly moved its HQ to SF in 2023. So don’t worry Paul Graham, your dream of startup asceticism1 lives on, it’s just sipping $8 cold brew in SoMa.
+Funny enough, Graham said that San Francisco’s message “seems to be the same as Berkeley’s: you should live better. But this will change if enough startups choose SF over the Valley.” He is basically saying that SF was a crunchy alternative to the Valley. And, apparently, creating a startup in SF was considered a “self-indulgent choice,” which is still true—SF is darn expensive. But I think that the shift already happened in the past 5 years—even YC, his own startup incubator, quietly moved its HQ to SF in 2023. So don’t worry Paul Graham, your dream of startup asceticism^[1] lives on, it’s just sipping $8 cold brew in SoMa.
 
 Which is funny, because now the narrative seems to be flipping again.
 
