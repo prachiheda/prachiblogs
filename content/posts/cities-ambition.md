@@ -14,7 +14,7 @@ I can see myself taking some inspiration from his blog, which is like digital ti
 
 # Cities and Ambition
 
-[Cities and Ambition](https://paulgraham.com/cities.html), written in 2008, highlights how various cities prioritize types of ambition. At a high level, here are some pairings that are discussed:
+[Cities and Ambition](https://paulgraham.com/cities.html), written in 2008, highlights how various cities prioritize types of ambition. He explores the idea that cities send subtle messages about what you should care about. Those messages, whether through overheard conversations or embedded in daily life, shape what people strive for. At a high level, here are some pairings that are discussed:
 
 - New York -> Make more money 
 - Cambridge -> Be smarter 
@@ -24,6 +24,16 @@ I can see myself taking some inspiration from his blog, which is like digital ti
 Arguably, the message that a city sends means a world of difference in how you live you life. For that reason, people who prioritize a certain type of ambition flock to the same cities, even if the weather is dismal and it is way too expensive - just think Cambridge. 
 
 An interesting point Paul claimed is that ambitions are incompatible - and therefore each city only focuses on one type of ambition. After trying to find a counterexample, I think this is true (in my experience. Of course I have lived in very few cities yet). When I think of LA, I imagine fame. In SF, highly technical companies are the name of the game. Living San Diego, relaxation and slow days are what everyone desires. Is that even considered an "ambition"? Only people in San Diego would know...LOL
+
+## Favorite excerpts
+
+> "A city speaks to you mostly by accident — in things you see through windows, in conversations you overhear. It's not something you have to seek out, but something you can't turn off."
+
+> "Some people know at 16 what sort of work they're going to do, but in most ambitious kids, ambition seems to precede anything specific to be ambitious about."
+
+> "Does anyone who wants to do great work have to live in a great city? No; all great cities inspire some sort of ambition, but they aren't the only places that do. For some kinds of work, all you need is a handful of talented colleagues."
+
+> – Paul Graham, *Cities and Ambition*
 
 ## How its changed
 
