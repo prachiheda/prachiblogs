@@ -51,7 +51,8 @@ Okay jokes aside, l want to dissect the happies and sads of this quarter as a sm
 - first welfare wednesday 😳 wild experience. 
 - playing the guitar everyday! I can see so much improvement 🥹
 
-Sads
+## Sads
+
 - haven’t been going to the gym much ☹️ mandatory classes plus living off campus has made this so difficult 
 - time consuming classes. tell me why i have individual labs, group assignments, group projects, quizzes, two midterms, final project presentations, weekly meetings just for one class. 
 - lots of anxiety. what does it mean to be successful, and how to achieve so called success 
