@@ -16,4 +16,4 @@ Please enjoy these tabs I have put together at 1 am.
 
 Capo: 3rd fret. Around 120 bpm. 
 
-![Guitar Tabs](gotabs.png)
+![Guitar Tabs](/../images/gotabs.png)
